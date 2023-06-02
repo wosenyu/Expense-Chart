@@ -7,6 +7,7 @@ import { getFirestore, collection, query } from "firebase/firestore";
 const firebaseConfig = {
     apiKey: "AIzaSyCgSN_h3mK4i3vs9HcYY5LG0pmMvzL4DtI",
     authDomain: "expensetracker-2eea5.firebaseapp.com",
+    authDomain: "expense-chart-five.vercel.app",
     projectId: "expensetracker-2eea5",
     storageBucket: "expensetracker-2eea5.appspot.com",
     messagingSenderId: "116229044858",
